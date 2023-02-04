@@ -9,4 +9,12 @@ In general, knowledge graphs offer a unified representation of information, maki
 
 ### Papers on Knowledge Graph
 **A Review of Biomedical Datasets Relating to Drug Discovery: A Knowledge Graph Perspective** [Click](https://arxiv.org/pdf/2102.10062.pdf)\
-Stephen Bonner,Ian P Barrett,Cheng Ye,Rowan Swiers,Ola Engkvist,Andreas Bender,Charles Tapley Hoyt,William Hamilton,
+*Stephen Bonner,Ian P Barrett,Cheng Ye,Rowan Swiers,Ola Engkvist,Andreas Bender,Charles Tapley Hoyt,William Hamilton*
+
+
+
+
+### Tutorials
+Generating Knowledge Graphs with Wikipedia [Click](https://towardsdatascience.com/generating-knowledge-graphs-with-wikipedia-ec17030a40f6)\
+*Jye Sawtell-Rickson*\
+[Colab](https://colab.research.google.com/drive/1iKsJtRY-7gX_pGAHT2Cu3e75b3LztU63?usp=sharing&authuser=2)
