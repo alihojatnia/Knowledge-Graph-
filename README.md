@@ -8,7 +8,5 @@ In the healthcare and life sciences fields, knowledge graphs can play a crucial 
 In general, knowledge graphs offer a unified representation of information, making it easier for people and machines to access and make use of knowledge. As the amount of data continues to grow, the importance of knowledge graphs is only set to increase in the future.
 
 ### Papers on Knowledge Graph
-A Review of Biomedical Datasets Relating to Drug Discovery: A Knowledge Graph Perspective [Click](https://arxiv.org/pdf/2102.10062.pdf)
-
-
-
+**A Review of Biomedical Datasets Relating to Drug Discovery: A Knowledge Graph Perspective** [Click](https://arxiv.org/pdf/2102.10062.pdf)
+Stephen Bonner,Ian P Barrett,Cheng Ye,Rowan Swiers,Ola Engkvist,Andreas Bender,Charles Tapley Hoyt,William Hamilton,
