@@ -18,3 +18,9 @@ In general, knowledge graphs offer a unified representation of information, maki
 Generating Knowledge Graphs with Wikipedia [Click](https://towardsdatascience.com/generating-knowledge-graphs-with-wikipedia-ec17030a40f6)\
 *Jye Sawtell-Rickson*\
 [Colab](https://colab.research.google.com/drive/1iKsJtRY-7gX_pGAHT2Cu3e75b3LztU63?usp=sharing&authuser=2)
+
+--------------------------------------------------------------------------------------------------------------------------------
+### paper
+- [Towards a knowledge graph for pre-/probiotics and microbiota–gut–brain axis diseases](https://www.nature.com/articles/s41598-022-21735-x)
+
+- [Biomedical knowledge graph learning for drug repurposing by extending guilt-by-association to multiple layers](https://www.nature.com/articles/s41467-023-39301-y)
