@@ -21,6 +21,6 @@ Generating Knowledge Graphs with Wikipedia [Click](https://towardsdatascience.co
 
 --------------------------------------------------------------------------------------------------------------------------------
 ### paper
-- [Towards a knowledge graph for pre-/probiotics and microbiota–gut–brain axis diseases](https://www.nature.com/articles/s41598-022-21735-x)
+- Towards a knowledge graph for pre-/probiotics and microbiota–gut–brain axis diseases[https://www.nature.com/articles/s41598-022-21735-x](https://www.nature.com/articles/s41598-022-21735-x)
 
-- [Biomedical knowledge graph learning for drug repurposing by extending guilt-by-association to multiple layers](https://www.nature.com/articles/s41467-023-39301-y)
+- Biomedical knowledge graph learning for drug repurposing by extending guilt-by-association to multiple layers[https://www.nature.com/articles/s41467-023-39301-y](https://www.nature.com/articles/s41467-023-39301-y)
