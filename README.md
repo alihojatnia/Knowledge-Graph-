@@ -11,7 +11,7 @@ In general, knowledge graphs offer a unified representation of information, maki
 **A Review of Biomedical Datasets Relating to Drug Discovery: A Knowledge Graph Perspective** [Click](https://arxiv.org/pdf/2102.10062.pdf)\
 *Stephen Bonner,Ian P Barrett,Cheng Ye,Rowan Swiers,Ola Engkvist,Andreas Bender,Charles Tapley Hoyt,William Hamilton*
 
-**Building a Knowledge Base from Texts: a Full Practical Example **[Click](https://medium.com/nlplanet/building-a-knowledge-base-from-texts-a-full-practical-example-8dbbffb912fa).
+** Building a Knowledge Base from Texts: a Full Practical Example **[Click](https://medium.com/nlplanet/building-a-knowledge-base-from-texts-a-full-practical-example-8dbbffb912fa).
 * Fabio Chiusano*
 ### Tutorials
 Generating Knowledge Graphs with Wikipedia [Click](https://towardsdatascience.com/generating-knowledge-graphs-with-wikipedia-ec17030a40f6)\
