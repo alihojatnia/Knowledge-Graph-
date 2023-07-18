@@ -20,6 +20,9 @@ Generating Knowledge Graphs with Wikipedia [Click](https://towardsdatascience.co
 
 [Building a Knowledge Base from Texts: a Full Practical Example Colab, REBEL](https://colab.research.google.com/drive/12gwdua-Fs7H31HIc5frzavT6ofyeLWux?usp=sharing)
 
+This tutorial will help you generate a knowledge graph from some structured datasets such as CSV, JSON and XML. We will use Semantic Web technologies to build our knowledge graph. If you are not familiar with Semantic Web technologies, we provide you with some basic concepts and technologies about Semantic Web based Knowledge Graphs.[link](https://maastrichtu-ids.github.io/best-practices/blog/2021/03/18/build-a-kg/)
+
+
 --------------------------------------------------------------------------------------------------------------------------------
 ### paper
 - Towards a knowledge graph for pre-/probiotics and microbiota–gut–brain axis diseases[https://www.nature.com/articles/s41598-022-21735-x](https://www.nature.com/articles/s41598-022-21735-x)
