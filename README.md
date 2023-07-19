@@ -23,6 +23,9 @@ Generating Knowledge Graphs with Wikipedia [Click](https://towardsdatascience.co
 This tutorial will help you generate a knowledge graph from some structured datasets such as CSV, JSON and XML. We will use Semantic Web technologies to build our knowledge graph. If you are not familiar with Semantic Web technologies, we provide you with some basic concepts and technologies about Semantic Web based Knowledge Graphs.[link](https://maastrichtu-ids.github.io/best-practices/blog/2021/03/18/build-a-kg/)
 
 
+
+Converting your Knowledge Graph TSV/CSV to a Resource Description Framework (RDF) For Interoperability[link](https://sharifsuliman.medium.com/converting-your-knowledge-graph-tsv-csv-to-a-resource-description-framework-rdf-for-e3e7305519bd)
+
 --------------------------------------------------------------------------------------------------------------------------------
 ### paper
 - Towards a knowledge graph for pre-/probiotics and microbiota–gut–brain axis diseases[https://www.nature.com/articles/s41598-022-21735-x](https://www.nature.com/articles/s41598-022-21735-x)
