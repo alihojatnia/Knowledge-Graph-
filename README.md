@@ -6,12 +6,12 @@ In AI, knowledge graphs provide a structured way to represent vast amounts of in
 In the healthcare and life sciences fields, knowledge graphs can play a crucial role in drug discovery and personalized medicine by providing a comprehensive view of biological entities, pathways, and relationships between diseases and treatments.
 
 In general, knowledge graphs offer a unified representation of information, making it easier for people and machines to access and make use of knowledge. As the amount of data continues to grow, the importance of knowledge graphs is only set to increase in the future.
-#################################################################################################################
+##################################################################################################
 ### repository  
 [Papers and Materials from All Areas](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers)
 Note: The papers from the database communities are marked with
 
-###################################################################################################################
+###########################################################################################
 ### Papers on Knowledge Graph
 **A Review of Biomedical Datasets Relating to Drug Discovery: A Knowledge Graph Perspective** [Click](https://arxiv.org/pdf/2102.10062.pdf)\
 *Stephen Bonner,Ian P Barrett,Cheng Ye,Rowan Swiers,Ola Engkvist,Andreas Bender,Charles Tapley Hoyt,William Hamilton*
