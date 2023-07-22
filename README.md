@@ -9,6 +9,7 @@ In general, knowledge graphs offer a unified representation of information, maki
 ######################################################################################################################################
 ### repository  
 [Papers and Materials from All Areas](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers)
+Note: The papers from the database communities are marked with
 
 ######################################################################################################################################
 ### Papers on Knowledge Graph
